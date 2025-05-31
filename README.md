@@ -1,116 +1,48 @@
-<h1 align="center">Hey there 👋, I'm Ayush Kumar</h1>
-<h3 align="center">🚀 A Passionate Full-Stack Web Developer</h3>
+<h1 align="center">Hello, I'm Ayush Kumar</h1>
+<h3 align="center">MERN Stack Developer </h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D8BF4&center=true&vCenter=true&width=435&lines=Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akofficial10&label=Profile%20Views&color=0e75b6&style=flat" alt="akofficial10" />
-</p>
 
 ---
 
-### 🧠 About Me
+### 🛠 Core Competencies
 
-- 🔭 Currently working on: **AI-Powered Resume Analyzer**
-- 🌱 Learning: **DSA in Java**, **GSAP**, and **Three.js**
-- 👯 Open to collaborate on: **Open Source Web Development Projects**
-- 🤝 Looking for help with: **DSA & System Design**
-- 💬 Ask me about: **Web Development, JavaScript, MERN Stack, APIs, Animations**
-- 📫 Reach me at: **akofficial1330@gmail.com**
-- 📄 Know more: [LinkedIn →](https://www.linkedin.com/in/ayushkumar10/)
-- ⚡ Fun fact: **I talk to AI more than humans! 🤖**
+#### **Frontend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</div>
 
----
 
-### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://codepen.io/akofficial" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="40" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayushkumar10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
-  </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="40" width="40" />
-  </a>
-</p>
+#### **Backend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</div>
 
----
-
-### 🛠️ Tech Stack
-
-#### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-</p>
-
-#### Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-</p>
-
-#### Tools & Others
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-</p>
+#### **Tools & DevOps**
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
 
 ---
 
-### 🔥 Recent Projects
 
-#### 1. [Project Name](https://github.com/yourusername/project)  
-📌 Brief description of what it does  
-🛠 Built with: Tech stack used  
-🌟 Features: Key features  
-
-#### 2. [Project Name](https://github.com/yourusername/project)  
-📌 Brief description of what it does  
-🛠 Built with: Tech stack used  
-🌟 Features: Key features  
-
----
-
-### ✍️ Blog Posts
-
-- [Article Title 1](https://medium.com/yourblog/link-to-article) - Brief description
-- [Article Title 2](https://medium.com/yourblog/link-to-article) - Brief description
-- [Article Title 3](https://medium.com/yourblog/link-to-article) - Brief description
-
----
-
-### 🎨 Design Inspiration
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
-  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53d84e09a0fbd7eed8e4f7d1c3d.gif" width="300"/>
-</p>
-
----
-
-### 🎶 Currently Listening To
-
-[![Spotify](https://novatorem-akshaykmr.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akofficial10&theme=dark" alt="GitHub Streak" />
-</p>
+📫 Get In Touch
+<p align="center"> <a href="https://www.linkedin.com/in/ayushkumar10/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:akofficial1330@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://codepen.io/akofficial" target="_blank"> <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a> <a href="https://github.com/akofficial10" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akofficial10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p> 
