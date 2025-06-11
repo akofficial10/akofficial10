@@ -50,7 +50,7 @@
   
 | Project | Description | Tech Stack | Stars |
 |---------|-------------|------------|-------|
-| [E-Commerce-DermoDazzle](https://github.com/akofficial10/E-commerce) | Full-featured online store | MERN Stack, Redux | ![GitHub Stars](https://img.shields.io/github/stars/akofficial10/E-Commerce-Platform?style=flat-square) |
+| [E-Commerce-DermoDazzle](https://github.com/akofficial10/E-commerce) | Full-featured online store | MERN Stack, Redux | ![GitHub Stars](https://img.shields.io/github/stars/akofficial10/E-commerce) |
 | [Resume-Analyzer](https://github.com/akofficial10/Resume-Analyzer) | AI-powered resume analysis tool | React, Node.js, Python | ![GitHub Stars](https://img.shields.io/github/stars/akofficial10/Resume-Analyzer?style=flat-square) |
 | [Simon-Says](https://github.com/akofficial10/Simon-Says) | Memory game with pattern recognition | HTML, CSS, JavaScript | ![GitHub Stars](https://img.shields.io/github/stars/akofficial10/Simon-Says?style=flat-square) |
 
