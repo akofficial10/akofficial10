@@ -51,16 +51,40 @@
 ## 🚀 Top 3 Repositories
 
 <div align="center">
-  
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [E-Commerce-DermoDazzle](https://github.com/akofficial10/E-commerce) | Full-featured online store | MERN Stack, Redux | ![GitHub Stars](https://img.shields.io/github/stars/akofficial10/E-commerce) |
-| [Resume-Analyzer](https://github.com/akofficial10/Resume-Analyzer) | AI-powered resume analysis tool | React, Node.js, Python | ![GitHub Stars](https://img.shields.io/github/stars/akofficial10/Resume-Analyzer?style=flat-square) |
-| [Simon-Says](https://github.com/akofficial10/Simon-Says) | Memory game with pattern recognition | HTML, CSS, JavaScript | ![GitHub Stars](https://img.shields.io/github/stars/akofficial10/Simon-Says?style=flat-square) |
 
-
+<table>
+  <thead>
+    <tr>
+      <th>🚧 Project</th>
+      <th>📄 Description</th>
+      <th>🛠 Tech Stack</th>
+      <th>⭐ Stars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/akofficial10/E-commerce"><b>E-Commerce-DermoDazzle</b></a></td>
+      <td>Full-featured online store</td>
+      <td><img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/github/stars/akofficial10/E-commerce?style=social" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/akofficial10/Resume-Analyzer"><b>Resume-Analyzer</b></a></td>
+      <td>AI-powered resume analysis tool</td>
+      <td><img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" /></td>
+      <td><img src="https://img.shields.io/github/stars/akofficial10/Resume-Analyzer?style=social" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/akofficial10/Simon-Says"><b>Simon-Says</b></a></td>
+      <td>Memory game with pattern recognition</td>
+      <td><img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" /></td>
+      <td><img src="https://img.shields.io/github/stars/akofficial10/Simon-Says?style=social" /></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 ---
 
