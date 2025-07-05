@@ -63,7 +63,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/akofficial10/E-commerce"><b>E-Commerce-DermoDazzle</b></a></td>
+      <td><a href="https://github.com/akofficial10/E-commerce"><b>E-Commerce</b></a></td>
       <td>Full-featured online store</td>
       <td><img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" /></td>
       <td><img src="https://img.shields.io/github/stars/akofficial10/E-commerce?style=social" /></td>
@@ -74,12 +74,17 @@
       <td><img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" /></td>
       <td><img src="https://img.shields.io/github/stars/akofficial10/Resume-Analyzer?style=social" /></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/akofficial10/Simon-Says"><b>Simon-Says</b></a></td>
-      <td>Memory game with pattern recognition</td>
-      <td><img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" /></td>
-      <td><img src="https://img.shields.io/github/stars/akofficial10/Simon-Says?style=social" /></td>
-    </tr>
+   <tr>
+  <td><a href="https://github.com/akofficial10/MeetPro.git"><b>MeetPro</b></a></td>
+  <td>Video meeting app with chat and authentication</td>
+  <td>
+    <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white" />
+  </td>
+  <td><img src="https://img.shields.io/github/stars/akofficial10/MeetPro?style=social" /></td>
+</tr>
+
   </tbody>
 </table>
 
