@@ -115,8 +115,8 @@
 
 <div align="center">
   
-  <img height="200em" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=compact&theme=tokyonight&hide_progress=false&card_width=450" 
+ <img height="200em" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=compact&theme=tokyonight&hide_progress=false&card_width=450&random=1" 
      alt="Top Languages Used by akofficial10" 
      style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" />
 
