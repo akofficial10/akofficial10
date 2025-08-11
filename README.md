@@ -1,6 +1,12 @@
+<!-- 🎯 Animated Web Developer Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=5D8BF4&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Ayush+Kumar" alt="Hello, I'm Ayush Kumar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=10000000&color=5D8BF4&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Ayush+Kumar" alt="Hello, I'm Ayush Kumar" />
 </h1>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner" alt="MERN Stack Developer" />
@@ -72,6 +78,7 @@
       <th>Description</th>
       <th>Tech Stack</th>
       <th>Stars</th>
+        <th>Live Demo</th>
     </tr>
   </thead>
   <tbody>
@@ -83,6 +90,7 @@
         <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
       </td>
       <td><img src="https://img.shields.io/github/stars/akofficial10/E-commerce?style=social" /></td>
+       <td><a href="https://e-commerce-1-5lp9.onrender.com/ " target="_blank">View Demo</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/akofficial10/Resume-Analyzer"><b>Resume-Analyzer</b></a></td>
@@ -93,6 +101,7 @@
         <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" />
       </td>
       <td><img src="https://img.shields.io/github/stars/akofficial10/Resume-Analyzer?style=social" /></td>
+       <td><a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">View Demo</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/akofficial10/MeetPro.git"><b>MeetPro</b></a></td>
@@ -103,6 +112,7 @@
         <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white" />
       </td>
       <td><img src="https://img.shields.io/github/stars/akofficial10/MeetPro?style=social" /></td>
+       <td><a href="https://meetpro-live.vercel.app" target="_blank">View Demo</a></td>
     </tr>
   </tbody>
 </table>
@@ -116,13 +126,12 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  
- <img height="200em" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=compact&theme=tokyonight&hide_progress=false&card_width=450&random=1" 
-     alt="Top Languages Used by akofficial10" 
-     style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&hide_border=true" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=donut&theme=tokyonight&langs_count=8&card_width=800" 
+       alt="Donut Chart of Languages" 
+       style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
 </div>
+
 
 
 
