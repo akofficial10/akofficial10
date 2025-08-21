@@ -126,10 +126,23 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&hide_border=true" height="200em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=donut&theme=tokyonight&langs_count=8&card_width=800" 
-       alt="Donut Chart of Languages" 
-       style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
+
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em" 
+    alt="GitHub Stats"
+    style="border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.25);" 
+  />
+
+  <!-- Top Languages Donut Chart -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=donut&theme=tokyonight&langs_count=8&card_width=400" 
+    height="180em"
+    alt="Donut Chart of Languages" 
+    style="border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.25);" 
+  />
+
 </div>
 
 
