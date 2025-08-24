@@ -127,21 +127,18 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180em" 
-    alt="GitHub Stats"
-    style="border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.25);" 
-  />
+## 📊 GitHub Stats
 
-  <!-- Top Languages Donut Chart -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=donut&theme=tokyonight&langs_count=8&card_width=400" 
-    height="180em"
-    alt="Donut Chart of Languages" 
-    style="border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.25);" 
-  />
+<a href="https://github.com/akofficial10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+</a>
+
+## 🔥 Streak Stats
+
+<a href="https://github.com/akofficial10">
+  <img height="180em" src="https://streak-stats.demolab.com?user=akofficial10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" />
+</a>
 
 </div>
 
