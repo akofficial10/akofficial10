@@ -123,8 +123,6 @@
 
 </div>
 
-## 📊 **GitHub Stats**
-
 <div align="center">
 
 ## 📊 GitHub Stats
