@@ -134,11 +134,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
 </a>
 
-## 🔥 Streak Stats
-
-<a href="https://github.com/akofficial10">
-  <img height="180em" src="https://streak-stats.demolab.com?user=akofficial10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" />
-</a>
 
 </div>
 
