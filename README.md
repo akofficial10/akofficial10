@@ -128,16 +128,17 @@
 ## 📊 GitHub Stats
 
 <a href="https://github.com/akofficial10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=8" />
 </a>
 
 <!-- 🔥 Streak Stats -->
 <a href="https://github.com/akofficial10">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akofficial10&theme=tokyonight&hide_border=true&background=00000000" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=akofficial10&theme=tokyonight&hide_border=true&background=000000" />
 </a>
 
 </div>
+
 
 
 
