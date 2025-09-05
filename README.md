@@ -124,20 +124,23 @@
 </div>
 
 <div align="center">
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/akofficial10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akofficial10&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=8" />
-</a>
-
-<!-- 🔥 Streak Stats -->
-<a href="https://github.com/akofficial10">
-  <img height="180em" src="https://streak-stats.demolab.com?user=akofficial10&theme=tokyonight&hide_border=true&background=000000" />
-</a>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    height="180em"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="180em"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=akofficial10&theme=tokyonight"
+    alt="GitHub Streak"
+    height="180em"
+  />
 </div>
+
 
 
 
