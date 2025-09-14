@@ -125,21 +125,22 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&t=1"
     alt="GitHub Stats"
     height="180em"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight&t=1"
     alt="Top Languages"
     height="180em"
   />
   <img
-    src="https://streak-stats.demolab.com?user=akofficial10&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=akofficial10&theme=tokyonight&t=1"
     alt="GitHub Streak"
     height="180em"
   />
 </div>
+
 
 
 
