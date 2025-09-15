@@ -144,7 +144,7 @@
 
 
 
-
+[![An image of @akofficial10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akofficial10)](https://holopin.io/@akofficial10)
 
 
 
