@@ -123,6 +123,8 @@
 
 </div>
 
+## 🏆 **GitHub Stats**
+
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&t=1"
@@ -134,19 +136,25 @@
     alt="Top Languages"
     height="180em"
   />
-  <img
-    src="https://streak-stats.demolab.com?user=akofficial10&theme=tokyonight&t=1"
-    alt="GitHub Streak"
-    height="180em"
-  />
+<img src="https://streak-stats.demolab.com/?user=akofficial10&theme=tokyonight" alt="GitHub Streak" />
+
+
 </div>
 
+  ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
+## 🏆 **Hacktoberfest 2025**
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
 
 [![An image of @akofficial10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akofficial10)](https://holopin.io/@akofficial10)
 
 
+  ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 
