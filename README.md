@@ -71,51 +71,127 @@
 
 ## 🌟 **Top Projects**
 
+<div align="center">
+
 <table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-      <th>Stars</th>
-        <th>Live Demo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/akofficial10/E-commerce"><b>E-Commerce</b></a></td>
-      <td>Full-featured online store</td>
-      <td>
-        <img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
-      </td>
-      <td><img src="https://img.shields.io/github/stars/akofficial10/E-commerce?style=social" /></td>
-       <td><a href="https://e-commerce-1-5lp9.onrender.com/ " target="_blank">View Demo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/akofficial10/Resume-Analyzer"><b>Resume-Analyzer</b></a></td>
-      <td>AI-powered resume analysis tool</td>
-      <td>
-        <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs" />
-        <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" />
-      </td>
-      <td><img src="https://img.shields.io/github/stars/akofficial10/Resume-Analyzer?style=social" /></td>
-       <td><a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">View Demo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/akofficial10/MeetPro.git"><b>MeetPro</b></a></td>
-      <td>Video meeting app with chat and authentication</td>
-      <td>
-        <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white" />
-      </td>
-      <td><img src="https://img.shields.io/github/stars/akofficial10/MeetPro?style=social" /></td>
-       <td><a href="https://meetpro-1.onrender.com/" target="_blank">View Demo</a></td>
-    </tr>
-  </tbody>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🛒 E-Commerce  
+<a href="https://github.com/akofficial10/E-commerce" target="_blank">
+  <img src="https://github.com/user-attachments/assets/04b3c3aa-5263-47b6-b0b2-17f6da40906b" 
+       alt="E-Commerce Preview" 
+       width="100%" 
+       style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+</a>
+
+<p align="center"><b>🛍️ Full-featured Online Store with Modern UI/UX</b></p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</div>
+
+<p align="center">
+<a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🤖 Resume Analyzer  
+<a href="https://github.com/akofficial10/Resume-Analyzer" target="_blank">
+  <img src="https://github.com/user-attachments/assets/24f74c53-1d5d-41b2-9562-f2094d2fe672" 
+       alt="Resume Analyzer Preview" 
+       width="100%" 
+       style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+</a>
+
+<p align="center"><b>🤝 AI-powered Resume Analysis with Smart Insights</b></p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
+<p align="center">
+<a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 📹 MeetPro  
+<a href="https://github.com/akofficial10/MeetPro" target="_blank">
+  <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" 
+       alt="MeetPro Preview" 
+       width="100%" 
+       style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+</a>
+
+<p align="center"><b>📡 Video Meeting App with Chat & Authentication</b></p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+</div>
+
+<p align="center">
+<a href="https://meetpro-1.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 📊 Another Project  
+<a href="https://github.com/akofficial10/" target="_blank">
+  <img src="https://img.shields.io/badge/Project-PREVIEW-lightgrey?style=for-the-badge" 
+       alt="Placeholder Preview" 
+       width="100%" 
+       style="border-radius: 15px; border: 3px dashed #5D8BF4; padding:20px;" />
+</a>
+
+<p align="center"><b>⚡ Coming Soon – More Exciting Projects</b></p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Stay-Tuned-FF5733?style=for-the-badge" />
+</div>
+
+<p align="center">
+⭐ <img src="https://img.shields.io/github/stars/akofficial10?style=social" /><br/>
+<a href="https://github.com/akofficial10/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_View_More-5D8BF4?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+</tr>
 </table>
+
+</div>
+
+
+<div align="center">
+  
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
+
+
+
+
+
 
 <div align="center">
   
