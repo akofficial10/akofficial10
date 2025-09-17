@@ -86,12 +86,6 @@
 </a>
 
 <p align="center"><b>🛍️ Full-featured Online Store with Modern UI/UX</b></p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-</div>
-
 <p align="center">
 <a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
@@ -111,12 +105,6 @@
 </a>
 
 <p align="center"><b>🤝 AI-powered Resume Analysis with Smart Insights</b></p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
-
 <p align="center">
 <a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
@@ -127,51 +115,20 @@
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
+<td colspan="2" align="center" valign="top">
 
 ### 📹 MeetPro  
 <a href="https://github.com/akofficial10/MeetPro" target="_blank">
   <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" 
        alt="MeetPro Preview" 
-       width="100%" 
+       width="50%" 
        style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
 </a>
 
 <p align="center"><b>📡 Video Meeting App with Chat & Authentication</b></p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-</div>
-
 <p align="center">
 <a href="https://meetpro-1.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
-</a>
-</p>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 📊 Another Project  
-<a href="https://github.com/akofficial10/" target="_blank">
-  <img src="https://img.shields.io/badge/Project-PREVIEW-lightgrey?style=for-the-badge" 
-       alt="Placeholder Preview" 
-       width="100%" 
-       style="border-radius: 15px; border: 3px dashed #5D8BF4; padding:20px;" />
-</a>
-
-<p align="center"><b>⚡ Coming Soon – More Exciting Projects</b></p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Stay-Tuned-FF5733?style=for-the-badge" />
-</div>
-
-<p align="center">
-⭐ <img src="https://img.shields.io/github/stars/akofficial10?style=social" /><br/>
-<a href="https://github.com/akofficial10/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_View_More-5D8BF4?style=for-the-badge" />
 </a>
 </p>
 
@@ -181,12 +138,6 @@
 
 </div>
 
-
-<div align="center">
-  
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
 
 
 
