@@ -88,7 +88,8 @@
 <p align="center"><b>📡 Video Meeting App with Chat & Authentication</b></p>
 <p align="center">
 <a href="https://meetpro-1.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
+
 </a>
 </p>
 
@@ -107,7 +108,8 @@
 <p align="center"><b>🤝 AI-powered Resume Analysis with Smart Insights</b></p>
 <p align="center">
 <a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
+
 </a>
 </p>
 
@@ -128,7 +130,8 @@
 <p align="center"><b>🛍️ Full-featured Online Store with Modern UI/UX</b></p>
 <p align="center">
 <a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
+
 </a>
 </p>
 
@@ -147,7 +150,8 @@
 <p align="center"><b>🧠 Classic Simon Says Memory Game</b></p>
 <p align="center">
 <a href="https://simon-says-z6nx.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
+
 </a>
 </p>
 
