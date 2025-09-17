@@ -112,7 +112,7 @@
         <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white" />
       </td>
       <td><img src="https://img.shields.io/github/stars/akofficial10/MeetPro?style=social" /></td>
-       <td><a href="https://meetpro-live.vercel.app" target="_blank">View Demo</a></td>
+       <td><a href="https://meetpro-1.onrender.com/" target="_blank">View Demo</a></td>
     </tr>
   </tbody>
 </table>
