@@ -77,17 +77,17 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🛒 E-Commerce  
-<a href="https://github.com/akofficial10/E-commerce" target="_blank">
-  <img src="https://github.com/user-attachments/assets/04b3c3aa-5263-47b6-b0b2-17f6da40906b" 
-       alt="E-Commerce Preview" 
+### 📹 MeetPro  
+<a href="https://github.com/akofficial10/MeetPro" target="_blank">
+  <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" 
+       alt="MeetPro Preview" 
        width="100%" 
        style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
 </a>
 
-<p align="center"><b>🛍️ Full-featured Online Store with Modern UI/UX</b></p>
+<p align="center"><b>📡 Video Meeting App with Chat & Authentication</b></p>
 <p align="center">
-<a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
+<a href="https://meetpro-1.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
 </a>
 </p>
@@ -115,19 +115,38 @@
 </tr>
 
 <tr>
-<td colspan="2" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 📹 MeetPro  
-<a href="https://github.com/akofficial10/MeetPro" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" 
-       alt="MeetPro Preview" 
-       width="50%" 
+### 🛒 E-Commerce  
+<a href="https://github.com/akofficial10/E-commerce" target="_blank">
+  <img src="https://github.com/user-attachments/assets/04b3c3aa-5263-47b6-b0b2-17f6da40906b" 
+       alt="E-Commerce Preview" 
+       width="100%" 
        style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
 </a>
 
-<p align="center"><b>📡 Video Meeting App with Chat & Authentication</b></p>
+<p align="center"><b>🛍️ Full-featured Online Store with Modern UI/UX</b></p>
 <p align="center">
-<a href="https://meetpro-1.onrender.com/" target="_blank">
+<a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🎮 Simon Says  
+<a href="https://simon-says-z6nx.onrender.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/06f316de-0946-4ce0-9e70-595d66e97cec"
+       alt="Simon Says Preview" 
+       width="100%" 
+       style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+</a>
+
+<p align="center"><b>🧠 Classic Simon Says Memory Game</b></p>
+<p align="center">
+<a href="https://simon-says-z6nx.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-FF7139?style=for-the-badge" />
 </a>
 </p>
@@ -137,9 +156,6 @@
 </table>
 
 </div>
-
-
-
 
 
 
