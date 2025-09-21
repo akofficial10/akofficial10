@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=10000000&color=5D8BF4&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Ayush+Kumar" alt="Hello, I'm Ayush Kumar" />
 </h1>
 
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner" alt="MERN Stack Developer" />
 </h3>
@@ -15,10 +14,10 @@
 <div align="center">
   
   ![GitHub Profile Views](https://komarev.com/ghpvc/?username=akofficial10&label=Profile%20Views&color=0e75b6&style=flat)
-  
-  ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
+
+---
 
 ## 🚀 **Core Competencies**
 
@@ -27,7 +26,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
@@ -63,11 +62,7 @@
   <img src="https://img.shields.io/badge/Render-46A2F1?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
-<div align="center">
-  
-  ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
+---
 
 ## 🌟 **Top Projects**
 
@@ -79,19 +74,13 @@
 
 ### 📹 MeetPro  
 <a href="https://github.com/akofficial10/MeetPro" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" 
-       alt="MeetPro Preview" 
-       width="100%" 
-       style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+  <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
 </a>
 
-<p align="center"><b>📡 Video Meeting App with Chat & Authentication</b></p>
-<p align="center">
+<b>📡 Video Meeting App with Chat & Authentication</b><br/>
 <a href="https://meetpro-1.onrender.com/" target="_blank">
  <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-
 </a>
-</p>
 
 </td>
 
@@ -99,19 +88,13 @@
 
 ### 🤖 Resume Analyzer  
 <a href="https://github.com/akofficial10/Resume-Analyzer" target="_blank">
-  <img src="https://github.com/user-attachments/assets/24f74c53-1d5d-41b2-9562-f2094d2fe672" 
-       alt="Resume Analyzer Preview" 
-       width="100%" 
-       style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+  <img src="https://github.com/user-attachments/assets/24f74c53-1d5d-41b2-9562-f2094d2fe672" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
 </a>
 
-<p align="center"><b>🤝 AI-powered Resume Analysis with Smart Insights</b></p>
-<p align="center">
+<b>🤝 AI-powered Resume Analysis with Smart Insights</b><br/>
 <a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-
+ <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
 </a>
-</p>
 
 </td>
 </tr>
@@ -121,19 +104,13 @@
 
 ### 🛒 E-Commerce  
 <a href="https://github.com/akofficial10/E-commerce" target="_blank">
-  <img src="https://github.com/user-attachments/assets/04b3c3aa-5263-47b6-b0b2-17f6da40906b" 
-       alt="E-Commerce Preview" 
-       width="100%" 
-       style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+  <img src="https://github.com/user-attachments/assets/04b3c3aa-5263-47b6-b0b2-17f6da40906b" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
 </a>
 
-<p align="center"><b>🛍️ Full-featured Online Store with Modern UI/UX</b></p>
-<p align="center">
+<b>🛍️ Full-featured Online Store with Modern UI/UX</b><br/>
 <a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-
+ <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
 </a>
-</p>
 
 </td>
 
@@ -141,19 +118,13 @@
 
 ### 🎮 Simon Says  
 <a href="https://simon-says-z6nx.onrender.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/06f316de-0946-4ce0-9e70-595d66e97cec"
-       alt="Simon Says Preview" 
-       width="100%" 
-       style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+  <img src="https://github.com/user-attachments/assets/06f316de-0946-4ce0-9e70-595d66e97cec" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
 </a>
 
-<p align="center"><b>🧠 Classic Simon Says Memory Game</b></p>
-<p align="center">
+<b>🧠 Classic Simon Says Memory Game</b><br/>
 <a href="https://simon-says-z6nx.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-
+ <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
 </a>
-</p>
 
 </td>
 </tr>
@@ -161,34 +132,28 @@
 
 </div>
 
+---
 
 
-
-<div align="center">
-  
-  ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
 ## 🏆 **GitHub Stats**
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&t=1"
-    alt="GitHub Stats"
-    height="180em"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight&t=1"
-    alt="Top Languages"
-    height="180em"
-  />
-<img src="https://streak-stats.demolab.com/?user=akofficial10&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&t=1" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight&t=1" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=akofficial10&theme=tokyonight" />
 
+  
+<div align="center">
+
+  
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akofficial10&theme=tokyonight)
 
 </div>
+</div>
 
-  ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 ## 🏆 **Hacktoberfest 2025**
@@ -196,14 +161,9 @@
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+[![Holopin Badges](https://holopin.me/akofficial10)](https://holopin.io/@akofficial10)
 
-
-[![An image of @akofficial10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akofficial10)](https://holopin.io/@akofficial10)
-
-
-  ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-
+---
 
 ## 📫 **Connect With Me**
 
@@ -215,3 +175,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&width=600&lines=✨+Thank+You+for+Visiting+✨" alt="Thank You for Visiting" />
+</h2>
