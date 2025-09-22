@@ -144,14 +144,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&t=1" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight&t=1" height="180em" />
   <img src="https://streak-stats.demolab.com/?user=akofficial10&theme=tokyonight" />
-
-  
-<div align="center">
-
-  
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akofficial10&theme=tokyonight)
-
-</div>
 </div>
 
 
