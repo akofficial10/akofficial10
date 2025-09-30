@@ -141,10 +141,11 @@
 ## 🏆 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&t=<?=Date.now()?>" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight&t=<?=Date.now()?>" height="180em" />
-  <img src="https://streak-stats.demolab.com/?user=akofficial10&theme=tokyonight&t=<?=Date.now()?>" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&cache_bust=1" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight&cache_bust=1" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=akofficial10&theme=tokyonight&cache_bust=1" />
 </div>
+
 
 
 
