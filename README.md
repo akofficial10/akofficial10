@@ -64,67 +64,91 @@
 
 ---
 
-## 🌟 **Top Projects**
+## 🌟 **Featured Projects**
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="padding: 20px;">
 
 ### 📹 MeetPro  
-<a href="https://github.com/akofficial10/MeetPro" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
-</a>
-
-<b>📡 Video Meeting App with Chat & Authentication</b><br/>
-<a href="https://meetpro-1.onrender.com/" target="_blank">
- <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-</a>
+<div class="project-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(93, 139, 244, 0.3); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); transition: all 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #5D8BF4, #2E57A5);"></div>
+  <a href="https://github.com/akofficial10/MeetPro" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" width="100%" style="border-radius: 12px; transition: transform 0.3s ease; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <div style="padding: 15px 5px 5px;">
+    <b style="font-size: 1.1em; color: #f0f0f0;">📡 Video Meeting App with Chat & Authentication</b><br/><br/>
+    <a href="https://meetpro-1.onrender.com/" target="_blank">
+      <div style="display: inline-block; background: linear-gradient(135deg, #5D8BF4, #3A6BD9); color: white; padding: 8px 16px; border-radius: 50px; font-weight: bold; text-decoration: none; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(93, 139, 244, 0.4);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(93, 139, 244, 0.6)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(93, 139, 244, 0.4)'">
+        🚀 Live Demo
+      </div>
+    </a>
+  </div>
+</div>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="padding: 20px;">
 
 ### 🤖 Resume Analyzer  
-<a href="https://github.com/akofficial10/Resume-Analyzer" target="_blank">
-  <img src="https://github.com/user-attachments/assets/24f74c53-1d5d-41b2-9562-f2094d2fe672" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
-</a>
-
-<b>🤝 AI-powered Resume Analysis with Smart Insights</b><br/>
-<a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">
- <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-</a>
+<div class="project-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(93, 139, 244, 0.3); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); transition: all 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #FF6B6B, #FF8E53);"></div>
+  <a href="https://github.com/akofficial10/Resume-Analyzer" target="_blank">
+    <img src="https://github.com/user-attachments/assets/24f74c53-1d5d-41b2-9562-f2094d2fe672" width="100%" style="border-radius: 12px; transition: transform 0.3s ease; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <div style="padding: 15px 5px 5px;">
+    <b style="font-size: 1.1em; color: #f0f0f0;">🤝 AI-powered Resume Analysis with Smart Insights</b><br/><br/>
+    <a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">
+      <div style="display: inline-block; background: linear-gradient(135deg, #FF6B6B, #FF8E53); color: white; padding: 8px 16px; border-radius: 50px; font-weight: bold; text-decoration: none; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(255, 107, 107, 0.6)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(255, 107, 107, 0.4)'">
+        🚀 Live Demo
+      </div>
+    </a>
+  </div>
+</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="padding: 20px;">
 
 ### 🛒 E-Commerce  
-<a href="https://github.com/akofficial10/E-commerce" target="_blank">
-  <img src="https://github.com/user-attachments/assets/04b3c3aa-5263-47b6-b0b2-17f6da40906b" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
-</a>
-
-<b>🛍️ Full-featured Online Store with Modern UI/UX</b><br/>
-<a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
- <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-</a>
+<div class="project-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(93, 139, 244, 0.3); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); transition: all 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #4ECDC4, #2A9D8F);"></div>
+  <a href="https://github.com/akofficial10/E-commerce" target="_blank">
+    <img src="https://github.com/user-attachments/assets/04b3c3aa-5263-47b6-b0b2-17f6da40906b" width="100%" style="border-radius: 12px; transition: transform 0.3s ease; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <div style="padding: 15px 5px 5px;">
+    <b style="font-size: 1.1em; color: #f0f0f0;">🛍️ Full-featured Online Store with Modern UI/UX</b><br/><br/>
+    <a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
+      <div style="display: inline-block; background: linear-gradient(135deg, #4ECDC4, #2A9D8F); color: white; padding: 8px 16px; border-radius: 50px; font-weight: bold; text-decoration: none; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(78, 205, 196, 0.4);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(78, 205, 196, 0.6)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(78, 205, 196, 0.4)'">
+        🚀 Live Demo
+      </div>
+    </a>
+  </div>
+</div>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="padding: 20px;">
 
 ### 🎮 Simon Says  
-<a href="https://simon-says-z6nx.onrender.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/06f316de-0946-4ce0-9e70-595d66e97cec" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
-</a>
-
-<b>🧠 Classic Simon Says Memory Game</b><br/>
-<a href="https://simon-says-z6nx.onrender.com/" target="_blank">
- <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-</a>
+<div class="project-card" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(93, 139, 244, 0.3); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); transition: all 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #9B5DE5, #7209B7);"></div>
+  <a href="https://simon-says-z6nx.onrender.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/06f316de-0946-4ce0-9e70-595d66e97cec" width="100%" style="border-radius: 12px; transition: transform 0.3s ease; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <div style="padding: 15px 5px 5px;">
+    <b style="font-size: 1.1em; color: #f0f0f0;">🧠 Classic Simon Says Memory Game</b><br/><br/>
+    <a href="https://simon-says-z6nx.onrender.com/" target="_blank">
+      <div style="display: inline-block; background: linear-gradient(135deg, #9B5DE5, #7209B7); color: white; padding: 8px 16px; border-radius: 50px; font-weight: bold; text-decoration: none; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(155, 93, 229, 0.4);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(155, 93, 229, 0.6)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(155, 93, 229, 0.4)'">
+        🚀 Live Demo
+      </div>
+    </a>
+  </div>
+</div>
 
 </td>
 </tr>
