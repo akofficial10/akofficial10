@@ -3,12 +3,12 @@
   <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=10000000&color=5D8BF4&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Ayush+Kumar" alt="Hello, I'm Ayush Kumar" />
-</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#5D8BF4;">Ayush Kumar</span></h1>
+<h3 align="center"> Full Stack Web Developer | Open Source Contributor | Continuous Learner </h3>
+
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner" alt="MERN Stack Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver" alt="MERN Stack Developer" />
 </h3>
 
 <div align="center">
@@ -17,50 +17,43 @@
 
 </div>
 
----
 
-## 🚀 **Core Competencies**
 
-### **Languages**
+
+## ✨ About Me  
+
+👨‍💻 I’m **Ayush Kumar**, a passionate **Full Stack Web Developer** focused on building scalable, performant, and user-friendly digital experiences.  
+🤝 I’m an active **open-source contributor** and love collaborating with developers worldwide.                   
+🌟 Having mastered the **MERN stack**, I’m now exploring **Docker**, **CI/CD**, and **Kubernetes** to build high-performance web platforms.  
+
+
+
+
+
+## 🚀 Skills & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,java&perline=5" />
 </p>
 
-### **Frontend Development**
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind&perline=6" />
 </p>
 
-### **Backend Development**
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" />
 </p>
 
-### **Databases & Tools**
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46A2F1?style=for-the-badge&logo=render&logoColor=white" />
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,docker,postman,vscode&perline=10" />
 </p>
+
+
+
 
 ---
 
