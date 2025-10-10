@@ -24,7 +24,7 @@
 
 👨‍💻 A passionate **Full Stack Web Developer** focused on building scalable, performant, and user-friendly digital experiences.  
 🤝 I’m an active **open-source contributor** and love collaborating with developers worldwide.                   
-🌟 Having mastered the **MERN stack**, I’m now exploring **Docker**, **CI/CD**, and **Kubernetes** to build high-performance web platforms.  
+🌟 I’m now exploring **Docker**, **CI/CD**, and **Kubernetes** to build high-performance web platforms.  
 
 
 
