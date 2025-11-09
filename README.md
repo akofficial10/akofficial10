@@ -15,8 +15,9 @@
   
   ![GitHub Profile Views](https://komarev.com/ghpvc/?username=akofficial10&label=Profile%20Views&color=0e75b6&style=flat)
 
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support-yellow)](https://buymeacoffee.com/akofficial10)
+<a href="https://buymeacoffee.com/akofficial10" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+</a>
 
 </div>
 
