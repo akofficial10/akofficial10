@@ -15,9 +15,6 @@
   
   ![GitHub Profile Views](https://komarev.com/ghpvc/?username=akofficial10&label=Profile%20Views&color=0e75b6&style=flat)
 
-<a href="https://buymeacoffee.com/akofficial10" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="130" />
-</a>
 
 </div>
 
